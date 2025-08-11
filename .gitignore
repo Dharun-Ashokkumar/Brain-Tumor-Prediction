@@ -9,7 +9,3 @@ env/
 # OS generated files
 .DS_Store
 Thumbs.db
-
-# Model & data files (optional if too large)
-*.h5
-*.keras
